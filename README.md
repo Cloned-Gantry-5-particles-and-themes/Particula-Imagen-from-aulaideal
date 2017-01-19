@@ -1,3 +1,6 @@
+Forked from https://github.com/aulaideal/Particula-Imagen
+
+
 # Partícula "Imagen"
 Partícula para Gantry 5 que te permite incluir una imagen en tu Layout sin que esta sean un enlace necesariamente.
 La Partícula de tipo "Logo/Image" que viene con Gantry, hace que la imagen que coloques siempre sea un enlace. 
